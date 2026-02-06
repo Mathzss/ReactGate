@@ -1,31 +1,43 @@
-🚪 ReactGate
+# 🚪 ReactGate
 
-ReactGate é um projeto de tela de login moderna e responsiva, desenvolvido com React + Vite, focado em performance, organização e boas práticas de front-end.
+**ReactGate** é um projeto de **tela de login moderna e responsiva**, desenvolvido com **React + Vite**, com foco em performance, organização e boas práticas de front-end.
 
-Ideal para estudos, portfólio ou como base para aplicações maiores que exigem autenticação.
+Ideal para estudos, portfólio ou como base para aplicações que precisam de autenticação.
 
-✨ Funcionalidades
+---
 
-Tela de login estilizada
+## ✨ Funcionalidades
 
-Campos de usuário e senha
+- Tela de login estilizada
+- Campos de usuário e senha
+- Validação básica de formulário
+- Interface responsiva
+- Estrutura pronta para integração com API
+- Código limpo e organizado
 
-Validação básica de formulário
+---
 
-Interface responsiva
+## 🛠️ Tecnologias Utilizadas
 
-Estrutura pronta para integração com API
+- React
+- Vite
+- JavaScript
+- HTML5
+- CSS3
 
-Código limpo e organizado
+---
 
-🛠️ Tecnologias Utilizadas
+## 📁 Estrutura do Projeto
 
-#React
-
-#Vite
-
-#JavaScript
-
-#HTML5
-
-#CSS3
+```text
+reactgate/
+├── src/
+│   ├── components/
+│   ├── pages/
+│   ├── styles/
+│   ├── App.jsx
+│   └── main.jsx
+├── public/
+├── package.json
+└── vite.config.js
+```
